@@ -2,7 +2,7 @@
 	"role":{
 		"name": "MCR",
 		"schema_privileges": [{
-		   "privileges": ["SELECT METADATA"
+
 		   ]
 		}]
 		
